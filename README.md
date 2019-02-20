@@ -1,7 +1,7 @@
 # Noise
 ## An Idea for Building Trust within Networked Organizations
 
-**Networked Organization:** A network composed of nodes of individuals and machines that have sufficient volume of interaction where relationships between nodes can be quantified in a meaningful way. This organization is only related in that it shares a common language and jargon but does not necessarily work towards a common goal and their outputs will be varied and sometimes loosely related. Networked organizations can cease to be networked organizations when interactions between certain nodes become too numerous to make meaningful judgements about, as conventional measurements of their interactions will not capture the relationship's quality. 
+**Networked Organization:** A network composed of nodes of people and machines that have sufficient volume of interaction where relationships between nodes can be quantified in a meaningful way. This organization is only related in that it shares a common language/jargon but does not necessarily work towards a common goal. These organizations only only extend as far as people and machines are aware of them and spend time towards their maintenance. The life of an individual is a finite narrative, so in order to develop a life story that people can accept as "good" we prioritize and deprioritize certain networks we belong to in order to paint our picture. It is in this limited time that we sometimes ignore or corrupt the networked organizations we belong to. The quality of the networked organization is tied to their ability to create products that creates change in the public that matches the ethos of their community. This quality deteriorates when their outputs become varied and loosely related. Network organizations that are thoroughly corrupted will eventually counteract the ethos of a community, bringing all participants to neglect the network as a valuable source of their identity. People can only be nodes in so many networks, which is really a function of time. People must prioritize what networks compose their identity as to not was the scarce resource of time on groups that do not reflect our personal, uncommunicable ethos. Networked organizations can cease to be networked organizations when interactions between certain nodes become too numerous to make meaningful judgements about, as conventional measurements of their interactions will not capture the relationship's quality. 
 
 **Core:** An approximate grouping of the nodes in an organization with the most connections.
 
@@ -10,6 +10,8 @@
 **Outsider:** Any node with that only has one-way interaction with the network.
 
 **Public:** The entire universe of unconnected nodes who could potentially have a one-way interaction your network.
+
+**Ethos:** Ethos is the unknown. It is ultimately what we are solving for, yet as soon as we have solved for it
 
 ### Abstract
 
