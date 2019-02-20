@@ -1,5 +1,5 @@
 # Noise
-## An Idea for Building Trust within Networked Organizations
+## Building Trust within Networked Organizations
 
 **Networked Organization:** A network composed of nodes of people and machines that have sufficient volume of interaction where relationships between nodes can be quantified in a meaningful way. This organization is only related in that it shares a common language/jargon but does not necessarily work towards a common goal. These organizations only only extend as far as people and machines are aware of them and spend time towards their maintenance. The life of an individual is a finite narrative, so in order to develop a life story that people can accept as "good" we prioritize and deprioritize certain networks we belong to in order to paint our picture. It is in this limited time that we sometimes ignore or corrupt the networked organizations we belong to. The quality of the networked organization is tied to their ability to create products that creates change in the public that matches the ethos of their community. This quality deteriorates when their outputs become varied and loosely related. Network organizations that are thoroughly corrupted will eventually counteract the ethos of a community, bringing all participants to neglect the network as a valuable source of their identity. People can only be nodes in so many networks, which is really a function of time. People must prioritize what networks compose their identity as to not was the scarce resource of time on groups that do not reflect our personal, uncommunicable ethos. Networked organizations can cease to be networked organizations when interactions between certain nodes become too numerous to make meaningful judgements about, as conventional measurements of their interactions will not capture the relationship's quality. 
 
@@ -11,7 +11,7 @@
 
 **Public:** The entire universe of unconnected nodes who could potentially have a one-way interaction your network.
 
-**Ethos:** Ethos is the unknown. It is ultimately what we are solving for, yet as soon as we have solved for it
+**Ethos:** Ethos is the unknown. It is ultimately what we are solving for but never will. It can be described as the combination of faith, memories, and contexts that lead to the actions we presumably have control over. It is fluid and cannot be bound to a quantity or form.
 
 ### Abstract
 
@@ -83,6 +83,6 @@ _Noise as a Ratings Agency_
 - With this identity, individuals will be able to vote on proposed categorizations for how things are discussed within the networked organization (Vote on Values)
 - Tokens will be categorized under account type and can be staked to increase the probability of future action within a given categorization (Bet on Beliefs)
 - Example 1: Coordinated & measurable marketing action via social media channels, where major influencers are able to stake their tokens to specific marketing messages
-- Another example would be coordinated action around a specific improvement proposal (think similar EIPs fighting to become the standard for a specific), and promising some type of punishment if one doesn't go through (a sale of the coin for a competitor, for example)
-- Another example would be coordinating large-scale financial operations in a collective way by issuing quarterly tokens that can be used to vote on corporate actions such as coin-buybacks and restructuring their balance sheet
-- Votes will all be measured by QV
+- Example 2: Coordinated action around a specific improvement proposal (think similar EIPs fighting to become the standard for a specific), and promising some type of punishment if one doesn't go through (a sale of the coin for a competitor, for example)
+- Example 3: Coordinating large-scale financial operations in a collective way by issuing quarterly tokens that can be used to vote on corporate actions such as coin-buybacks and restructuring their balance sheet
+- QV and Data as Labor concept can be applied to this. Will allow for less engaged, peripheral members to gain more stake into the actions of the core group.
